@@ -1,6 +1,9 @@
 ## Finans
 Página de organização financeira para fins educativos.
 
+## Linguagens utilizadas
+HTML, CSS com Bootstrap.
+
 ## Home Page
 ![image](https://user-images.githubusercontent.com/94807208/162212796-93a2d273-9270-4fcc-baf5-4f8a90a6b320.png)
 
